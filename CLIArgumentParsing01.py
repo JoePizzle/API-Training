@@ -11,3 +11,4 @@ print("Password: " + args[2])
 print("IP Address: " + args[3])
 print("Gateway: " + args[4])
 print("Oh by the way, your script is named:", args[0])
+#See Git notes
